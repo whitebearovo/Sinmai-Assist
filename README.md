@@ -1,5 +1,5 @@
 # Sinmai-Assist
-Mods for maimai DX (Sinmai.exe). Patch with MelonLoader.  
+Mods for maimai DX (Sinmai.exe). Patch with MelonLoader.
 
 This is a cheat Mod, using by your own risk.
 
